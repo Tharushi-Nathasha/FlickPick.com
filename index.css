@@ -1,0 +1,14 @@
+.navbar.container {
+    display: flex;
+    gap: 40px;
+    margin-right: 50px;
+    margin-top : -50px;
+    padding-left: 500px;
+}
+
+.right-container{
+    display: flex;
+    gap: 10px;
+    margin-left: 500px;
+
+}
