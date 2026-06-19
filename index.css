@@ -14,12 +14,25 @@
     margin-top: -50px;
     right:0;
     width:100%;
+    position:fixed ;
+    
 }
-.nav-btn{
+.nav-btn1, .nav-btn2, .nav-btn3, .nav-btn4{
     background-color: transparent;
     border: none;
     font-size: 16px;
     cursor: pointer;
     margin: left -10px;
     gap: 5px;
+   
+}
+
+.nav-btn5{
+    background-color:rgb(171, 29, 29);
+    color: white;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-right: 20px;
 }
